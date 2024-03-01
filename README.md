@@ -25,3 +25,9 @@ As you relax and listen, remember that our purpose transcends mere entertainment
 
 # Contributors
 - [Gaurav](https://github.com/Gaurav-Krish95)🌬️🎶
+## 🔗 connect on
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/gourav-kumar-8b7538232/)
+
+
+
