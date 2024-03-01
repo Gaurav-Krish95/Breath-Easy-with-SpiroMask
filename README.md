@@ -1,44 +1,44 @@
-# Spiromask Project: A Sonic Journey into Lung Function
-## Introduction
+# Spiromask Project: A Sonic Journey into Lung Function🌬️🎶
+## Introduction🌬️🎶
 Welcome, fellow explorers of the human body! I, Gaurav, invite you on a unique expedition – a deep dive into the captivating world of lung function using an innovative tool known as the Spiromask.
 Our mission? To unveil the secrets of breathing, the very essence of life. Buckle up as we venture into the intricate details of differentiating breathing rate from sampling rate – a crucial aspect in understanding lung health.
-## Tools of the trade
+## Tools of the trade🌬️🎶
 
-## 1. Audacity
+## 1. Audacity🌬️🎶
 Are trustworthy companion on this journey is audacity,a powerful audio recording software. With its help we will capture the symphony of breaths inhalation, and exhalations.
 
-## 2. The Launchpad
+## 2. The Launchpad🌬️🎶
 My trusty laptop serves as our launchpad. Its keys hum with anticipation, ready to record every nuance of our sonic exploration.
 
-## 3. My Voice
+## 3. My Voice🌬️🎶
 As your guide, my voice will lead us through this auditory adventure. Listen closely – each breath holds a story waiting to be told.
 
-# The Goal
+# The Goal🌬️🎶
 As you relax and listen, remember that our purpose transcends mere entertainment. We seek valuable insights into lung function. Let the symphony guide you deeper, beyond the surface – where science and creativity harmonize.
 
-## 1. Loading Spiromask symphony
+## 1. Loading Spiromask symphony🌬️🎶
 I have recorded via audacity but I exported audacity project to WAV Format then i uploaded my audio into soundcloud you can navigate to the give link below.
 `Listen to the Spiromask Symphony`Below and sitback and relax with music and hum of enviorment.
 ```html
 https://on.soundcloud.com/9yiF5
 ```
 
-## 2. Sampling rate of recorded audio & breathing frequency range 
+## 2. Sampling rate of recorded audio & breathing frequency range 🌬️🎶
 our goal is to find sampling rate of audio which is clearly shows in audacity software under dropdown menu which is Stereo, 44100Hz 32bit-float and for finding frequency range we have to plot spectogram but before plotting we have to set high-pass filter for getting accurate rejult and precisie band of frequency to navigate.
-## 3. Plotting spectogram
+## 3. Plotting spectogram🌬️🎶
 we have to select dropdown menu in left at Audio 1 and select 'spectogram' to convert waveform to spectogram
-## 4. Finding frequency range
+## 4. Finding frequency range🌬️🎶
 in spectogram vertical axis represents frequant in hz and horizontal axis represnt time, range of Hz is from 0 to 10000. so first we have to convert our breathing rate into frequency and then we have to navigate to vertical axis.
 for this normal human breathing is 12-24 breaths/min which means 12-24 breaths/second which is 0.2-0.4Hz in frequency.
 so we will zoom in to find contrastic colours from spectogram which is our breathing rate, but because audacity can not go into very presise value, I have to increase frequency range from 10 to 100 hz
 
-# Contributors
+# Contributor🌬️🎶
 - [Gaurav](https://github.com/Gaurav-Krish95)🌬️🎶
-## 🔗 connect on
+## 🔗 connect me on🌬️🎶
 
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/gourav-kumar-8b7538232/)
 
-# Screenshots 
+# Screenshots 🌬️🎶
 
 ## Setup of settings in audacity
 #### First after recording in audacity, we have to filter higher frequencies from high pass filter for that apply 20Hz for precision and then we have to plot spectogram to observe frequency range[ y-axis is frequency and x-axis is representing time ]
