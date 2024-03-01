@@ -33,8 +33,6 @@ As you relax and listen, remember that our purpose transcends mere entertainment
 
 #### Setup of settings in audacity
 text
-```http
 ![Applying high pass filter](https://imgur.com/a/DQXVh7g)
-```
 
 
