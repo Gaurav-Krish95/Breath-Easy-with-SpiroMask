@@ -29,5 +29,12 @@ As you relax and listen, remember that our purpose transcends mere entertainment
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/gourav-kumar-8b7538232/)
 
+## Screenshots 
+
+#### Setup of settings in audacity
+text
+```http
+![Applying high pass filter](https://imgur.com/a/DQXVh7g)
+```
 
 
